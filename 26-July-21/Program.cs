@@ -6,9 +6,9 @@ namespace _26_July_21
     {
         static void Main(string[] args)
         {
-            // //Fibonacci series
-            // FibonacciSeries fibonacciSeries = new FibonacciSeries();
-            // fibonacciSeries.main();
+            //Fibonacci series
+            FibonacciSeries fibonacciSeries = new FibonacciSeries();
+            fibonacciSeries.main();
 
             //String Reversal
             StringReversal stringReversal = new StringReversal();
