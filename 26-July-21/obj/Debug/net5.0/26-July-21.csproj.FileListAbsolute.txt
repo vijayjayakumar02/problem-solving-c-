@@ -1,0 +1,16 @@
+C:\problem-solving-c#\26-July-21\bin\Debug\net5.0\26-July-21.exe
+C:\problem-solving-c#\26-July-21\bin\Debug\net5.0\26-July-21.deps.json
+C:\problem-solving-c#\26-July-21\bin\Debug\net5.0\26-July-21.runtimeconfig.json
+C:\problem-solving-c#\26-July-21\bin\Debug\net5.0\26-July-21.runtimeconfig.dev.json
+C:\problem-solving-c#\26-July-21\bin\Debug\net5.0\26-July-21.dll
+C:\problem-solving-c#\26-July-21\bin\Debug\net5.0\ref\26-July-21.dll
+C:\problem-solving-c#\26-July-21\bin\Debug\net5.0\26-July-21.pdb
+C:\problem-solving-c#\26-July-21\obj\Debug\net5.0\26-July-21.csproj.AssemblyReference.cache
+C:\problem-solving-c#\26-July-21\obj\Debug\net5.0\26-July-21.GeneratedMSBuildEditorConfig.editorconfig
+C:\problem-solving-c#\26-July-21\obj\Debug\net5.0\26-July-21.AssemblyInfoInputs.cache
+C:\problem-solving-c#\26-July-21\obj\Debug\net5.0\26-July-21.AssemblyInfo.cs
+C:\problem-solving-c#\26-July-21\obj\Debug\net5.0\26-July-21.csproj.CoreCompileInputs.cache
+C:\problem-solving-c#\26-July-21\obj\Debug\net5.0\26-July-21.dll
+C:\problem-solving-c#\26-July-21\obj\Debug\net5.0\ref\26-July-21.dll
+C:\problem-solving-c#\26-July-21\obj\Debug\net5.0\26-July-21.pdb
+C:\problem-solving-c#\26-July-21\obj\Debug\net5.0\26-July-21.genruntimeconfig.cache
