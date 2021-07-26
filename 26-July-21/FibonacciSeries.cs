@@ -13,6 +13,7 @@ namespace _26_July_21
             {
                 Console.Write(Fibonacci(i) + " ");
             }
+            System.Console.WriteLine();
         }
         public int Fibonacci(int num)
         {
