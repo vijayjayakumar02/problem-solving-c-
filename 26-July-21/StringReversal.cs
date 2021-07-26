@@ -11,9 +11,8 @@ namespace _26_July_21
             string rev = "";
             if (sentence.Length == 0)
                 System.Console.WriteLine("String is empty");
-            //creating method and passing the arguments
             else
-                rev = Reverse(sentence);
+                rev = Reverse(sentence);//creating method and passing the arguments
             System.Console.WriteLine(rev);
         }
 
