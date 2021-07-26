@@ -8,8 +8,12 @@ namespace _26_July_21
         {
             System.Console.WriteLine("Enter the string: ");
             string sentence = Console.ReadLine();
-            //creating method and passing the arguments 
-            string rev = Reverse(sentence);
+            string rev = "";
+            if (sentence.Length == 0)
+                System.Console.WriteLine("String is empty");
+            //creating method and passing the arguments
+            else
+                rev = Reverse(sentence);
             System.Console.WriteLine(rev);
         }
 

@@ -10,11 +10,9 @@ namespace _26_July_21
             // FibonacciSeries fibonacciSeries = new FibonacciSeries();
             // fibonacciSeries.main();
 
-            // //String Reversal
-            // StringReversal stringReversal = new StringReversal();
-            // stringReversal.main();
-            string name = "vijay";
-            System.Console.WriteLine(name.Substring(1));
+            //String Reversal
+            StringReversal stringReversal = new StringReversal();
+            stringReversal.main();
         }
     }
 }
